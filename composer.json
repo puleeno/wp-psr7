@@ -1,0 +1,13 @@
+{
+    "name": "wp/message",
+    "description": "The proxy of WordPress Request response following PSR7",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
